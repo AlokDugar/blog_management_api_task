@@ -25,8 +25,10 @@ A Laravel-based blog management backend that demonstrates real-world API develop
 
 ## 📦 Setup Instructions
 
-### 1. Clone the Repository
+### 1. Setup the dependencies
+- Sanctum
+- Spatie Laravel Permission
+- Maatwebsite Excel
 
-```bash
-git clone https://github.com/yourusername/blog-api.git
-cd blog-api
+### 2. Import the Postman collection file into Postman
+
