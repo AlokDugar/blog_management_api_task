@@ -11,7 +11,7 @@ A Laravel-based blog management backend that demonstrates real-world API develop
 - Public post listing (no authentication required)
 - Clean API responses using Laravel **API Resources**
 - Validations using **FormRequests**
-- (Bonus) Unit tests for key routes
+- Unit tests for key routes
 
 ## 🧱 Tech Stack
 
